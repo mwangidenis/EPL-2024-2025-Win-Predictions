@@ -21,3 +21,7 @@ Data was collected from an API summarizing the 2023/2024 Premier League season. 
 - Goals scored and conceded  
 - Points per match  
 - Momentum and form across match weeks  
+
+### Article
+Here is a link about Premier League 2024/2025 Win Probability Predictor 
+ https://dev.to/denismwangi/premier-league-20242025-win-probability-predictor-1gji
